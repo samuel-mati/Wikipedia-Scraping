@@ -53,4 +53,3 @@ We obtained the data from the Wikipedia page on the [List of largest companies i
 - **LinkedIn:** Connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-mati-0752a2207/) for professional networking and updates.
 - **Tableau Public:** View my visualizations on [Tableau Public](https://public.tableau.com/app/profile/samuel.mati/vizzes) to explore more data insights.
 
-This README provides comprehensive information about the project, setup instructions, usage guidelines, visualization results, future enhancements, contributors, and links to your professional profiles for networking and further exploration. Adjust the links and sections as needed to fit your specific profiles and preferences.
