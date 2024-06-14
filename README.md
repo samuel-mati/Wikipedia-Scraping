@@ -33,13 +33,13 @@ We obtained the data from the Wikipedia page on the [List of largest companies i
 **Top 5 Companies by Revenue**: Bar plot comparing revenue of top companies.
 
 ## Future Enhancements
-Implement interactive visualizations.
-Incorporate historical revenue trends.
-Expand analysis to include more countries.
+- Implement interactive visualizations.
+- Incorporate historical revenue trends.
+- Expand analysis to include more countries.
 
 ## Contributors
-Samuel Mati
-Email: sammxsaf@gmail.com
+. Samuel Mati
+. Email: sammxsaf@gmail.com
 
 
 
