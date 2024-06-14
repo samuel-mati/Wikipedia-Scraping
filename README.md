@@ -38,15 +38,16 @@ We obtained the data from the Wikipedia page on the [List of largest companies i
 - Expand analysis to include more countries.
 
 ## Contributors
-. Samuel Mati
-. Email: sammxsaf@gmail.com
+`Samuel Mati`
+
+Email: sammxsaf@gmail.com
 
 
 
 ### How to Use
 1. **Clone the Repository:** Use `git clone` to get a copy of the project on your local machine.
 2. **Install Dependencies:** Ensure all required libraries are installed by running `pip install -r requirements.txt`.
-3. **Run the Script:** Execute `python analyze_companies.py` to scrape data, process it, and generate visualizations.
+3. **Run the Script:** Execute `python companies.py` to scrape data, process it, and generate visualizations.
 4. **Explore Results:** Check the generated CSV file and visualizations for insights into top companies and industries in the US.
 
 ### Profiles
