@@ -17,14 +17,19 @@ We obtained the data from the Wikipedia page on the [List of largest companies i
 
 ## Generated Files:
 **Top Companies in US.csv**: Contains the detailed data of top companies.
+
 **Top 5 Industries In the US.png**: Bar plot showing the top 5 industries based on frequency.
+
 **Top 5 Companies by Revenue.png**: Bar plot showing the top 5 companies by revenue.
+
 ## Results
 **Top 5 Industries In the US**: Shows the distribution of top industries based on the number of companies.
+
 **Top 5 Companies by Revenue**: Displays the companies with the highest revenue in millions of USD.
 
 ## Visualizations
 **Top 5 Industries In the US**: Frequency distribution of industries.
+
 **Top 5 Companies by Revenue**: Bar plot comparing revenue of top companies.
 
 ## Future Enhancements
